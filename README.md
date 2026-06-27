@@ -16,7 +16,7 @@ Welcome to this project combining Java web app development and AWS CI/CD tools!
 ## Introduction
 This project is used for an introduction to creating and deploying a Java-based web app using AWS, especially their CI/CD tools.
 
-This project aimzs to be a base of progress, utilisation of resources to perform tasks in DevOps campaign. It will go on.
+This project aims to be a base of progress, utilisation of resources to perform tasks in DevOps campaign. It will go on.
 
 The deployment pipeline I'm building around the Java web app in this repository is invisible to the end-user, but makes a big impact by automating the software release processes.
 
